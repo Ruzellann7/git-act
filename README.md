@@ -1,1 +1,1 @@
-# git-act
+# git-activity
